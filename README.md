@@ -7,6 +7,6 @@
 - ✨ Fun fact: I love [hobby, e.g., gaming, design, etc.].
 
 💻 *My Skills:*
-- � HTML5 | CSS3 
+- � HTML5 | CSS
 - 🛠 Git & GitHub
 - 🔥 Responsive Design
